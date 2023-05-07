@@ -15,11 +15,11 @@
 
 <br>
 
-![Feedback UI Design]()
+![Feedback UI Design](images/Feedback-UI-Design.png)
 
 <br>
 
-[Deployment]()
+[Deployment](https://jesterb0206.github.io/Feedback-UI-Design/)
 
 <br>
 
